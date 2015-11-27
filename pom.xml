@@ -1158,7 +1158,7 @@
         <poi.orbit.version>3.9.0.wso2v1</poi.orbit.version>
         <poi.orbit.imp.pkg.version>0.0.0</poi.orbit.imp.pkg.version> <!--todo change this to appropriate version range ([3.9.0,4.0.0)) after osgi bundle is corrected - rajith-->
 
-        <poi-ooxml.orbit.version>3.9.0.wso2v3</poi-ooxml.orbit.version>
+        <poi-ooxml.orbit.version>3.9.0.wso2v1</poi-ooxml.orbit.version>
         <poi-ooxml.orbit.imp.pkg.version>0.0.0</poi-ooxml.orbit.imp.pkg.version> <!--todo change this to appropriate version range ([3.9.0.wso2v3,4.0.0)) after osgi bundle is corrected - rajith-->
 
         <!--<poi-scratchpad.orbit.version>3.9.0.wso2v1</poi-scratchpad.orbit.version>-->
