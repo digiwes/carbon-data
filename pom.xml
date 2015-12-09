@@ -836,7 +836,7 @@
             <dependency>
                 <groupId>junit</groupId>
                 <artifactId>junit</artifactId>
-                <version>3.8.1</version>
+                <version>4.12</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
@@ -1121,7 +1121,7 @@
 
 
 
-        <apache.axis2.orbit.version>1.6.1.wso2v15</apache.axis2.orbit.version>
+        <apache.axis2.orbit.version>1.6.1.wso2v11</apache.axis2.orbit.version>
         <apache.axis2.orbit.imp.pkg.version>[1.6, 1.7)</apache.axis2.orbit.imp.pkg.version>
 
         <h2.engine.orbit.version>1.2.140.wso2v3</h2.engine.orbit.version>
